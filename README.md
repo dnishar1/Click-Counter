@@ -1,3 +1,3 @@
 # Click-Counter
 
-Version 01 
+Version 1 
