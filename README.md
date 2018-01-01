@@ -1,1 +1,1 @@
-# Click-Counter
+# Click Counter
