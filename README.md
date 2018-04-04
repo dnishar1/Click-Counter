@@ -1,4 +1,4 @@
 # Click Counter
 
 
-Basic app for counting numbers
+App for counting numbers
