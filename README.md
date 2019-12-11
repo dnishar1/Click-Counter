@@ -1,3 +1,1 @@
-# Click Counter
 
-counter
